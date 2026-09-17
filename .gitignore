@@ -1,0 +1,23 @@
+# Dataset files
+com-amazon.ungraph.txt/
+com-amazon.all.dedup.cmty.txt/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
